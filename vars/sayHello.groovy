@@ -1,3 +1,3 @@
-def call (String = 'Srikavya!') {
+def call(String name = 'Srikavya!') {
     echo "Hello, ${name}"
 }
